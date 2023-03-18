@@ -17,7 +17,9 @@ Two youtube videos that I referenced are given below:
 
 1. Install fastapi
 Go to the terminal and type:
+'''
 pip install fastapi
+'''
 
 2. Install uvicorn
 Uvicorn is an ASGI web server implementation for Python
