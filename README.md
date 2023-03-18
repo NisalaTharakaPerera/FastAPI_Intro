@@ -17,7 +17,7 @@ Two youtube videos that I referenced are given below:
 
 1. Install fastapi
 Go to the terminal and type:
-'''
+'''python
 pip install fastapi
 '''
 
